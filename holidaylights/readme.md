@@ -13,16 +13,24 @@ This project is to document what I did and to step to recreate what I have done.
 
 [![2022 Halloween Light Show](https://img.youtube.com/vi/AcGbxJbV51w/0.jpg)](https://youtu.be/AcGbxJbV51w "2022 Halloween Light Show")
 
-
-
 My System 3rd version:
 
 ## Items:
-- Pi 4b
+- Pi 4b, Power for PI 
 - 8 port relay
-- Wire
-- Audio split 
-- FM (car Radio)
+- FM (car Radio), power wire
+- Outdoor speaker,  power for outdoor speaker mirc usb (UBS1), block.
+- Box:
+  - Box - I used wood
+  - outlet 8 wire box
+  - 4 outlets
+- Wire:
+  - audio split
+  - audio extender (to connect outdoor speaker)
+  - Core to connect 
+  - Long 12 gauge wire to connect all the relay and 
+
+
 
 ## Wiring:
 
@@ -47,16 +55,4 @@ One hardest part. I found out that wires were pulling out trying to get all the 
 
 
 ### Setup:
-The following is how I setup my systme:
-
-#### Raspberry OS:
-
-
-#### Lightshow PI Setup:
-- created self setup.sh in file with my own config. 
-- Get layout of pins for device by using `gpio readall` I like to do that form ssh
-
-
-
-
-
+ [Setup Guide](./setupguide.md)

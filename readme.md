@@ -12,7 +12,7 @@ This is documentation of my project of self hosted :) This was from meet up with
     - Service Jellyfin Server
   - Home Pictures:
     - Service Jellyfin Server 
-    - Photoprism (docker)
+    - Photoprism (docker) looking at immich
   - Home Videos:
     - Service Jellyfin Server
   - Note taking:
@@ -23,6 +23,11 @@ This is documentation of my project of self hosted :) This was from meet up with
     - So far Service Jellyfin
   - Remote network access:
     - VPN (wireguard) using free Tailscale serives with exit node :) 
+  - Backup (Documents / Home Pictures Videos)
+    1 Running System copy two drivers
+    2 Cloud encryted copy using duplicati pushing into gmail drive
+    3 Dvd / Blue ray quartly 
+
 
 
 ## Current Hardwere setup
@@ -53,5 +58,7 @@ This is documentation of my project of self hosted :) This was from meet up with
     |Storage| SSD 500 GB|
 
 - Raspberry PI 4B
-
-
+- Handheld Gaming System:
+  - Anbernic RG35XX H: [![Anbernic RG35XX H](./handheld/AnbernicRG35XXHspec.png)](./handheld/anbernicrg35xxh.md) 
+  - Nintendo Switch OLED:
+  
