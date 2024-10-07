@@ -33,21 +33,24 @@ This is documentation of my project of self hosted :) This was from meet up with
 ## Current Hardwere setup
 
 - Main server (old slow):
-
-    | Type | Value|
-    | --- | --- |
-    |Processor|Intel(R) Core(TM) i5 CPU 650  @ 3.20GHz|
-    |Processor Cores| 2 cores, 4 threads| 
-    |Memory|4 GB| 
-    |Operating System|Ubuntu 24.04.1 LTS Mate|
-    |OpenGL Renderer| AMD Radeon RX 6600|
-    |Storage| Samsung SSD 840 - 20 GB|
-    || SAMSUNG HD153WI SATA - 1 TB
-    || Hitachi HDE72101 HDD SATA 1.5 TB| 
+  <details>
+    <summary>Intel i5 CPU 650 core 2, 4 threads @ 3.20, RAM 4 GB Click for spec</summary>
+      | Type | Value|
+      | --- | --- |
+      |Processor|Intel(R) Core(TM) i5 CPU 650  @ 3.20GHz|
+      |Processor Cores| 2 cores, 4 threads| 
+      |Memory|4 GB| 
+      |Operating System|Ubuntu 24.04.1 LTS Mate|
+      |OpenGL Renderer| |
+      |Storage| Samsung SSD 840 - 20 GB|
+      || SAMSUNG HD153WI SATA - 1 TB
+      || Hitachi HDE72101 HDD SATA 1.5 TB| 
+  </details>
 
 
 - Replacement Server:
-
+  <details>
+    <summary>Intel i7-10700F CPU @ 2.90GHz 8 core, 16 threads, RAM 16 GB AMD 6600,  Click for spec</summary>
     | Type | Value|
     | --- | --- |
     |Processor|Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz|
@@ -56,9 +59,11 @@ This is documentation of my project of self hosted :) This was from meet up with
     |Operating System|Ubuntu 24.04.1 LTS Mate|
     |OpenGL Renderer| AMD Radeon RX 6600|
     |Storage| SSD 500 GB|
+  </details>
 
 - Raspberry PI 4B
-- Handheld Gaming System:
-  - Anbernic RG35XX H: [![Anbernic RG35XX H](./handheld/AnbernicRG35XXHspec.png)](./handheld/anbernicrg35xxh.md) 
+- Device:
+  - PineTime [PineTime](https://wiki.pine64.org/wiki/PineTime)
+  -  [![Anbernic RG35XX H](./handheld/rg35xxj-icon.jpeg)](./handheld/anbernicrg35xxh.md) Anbernic RG35XX H
   - Nintendo Switch OLED:
   
