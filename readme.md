@@ -51,6 +51,7 @@ This is documentation of my project of self hosted :) This was from meet up with
 - Replacement Server:
   <details>
     <summary>Intel i7-10700F CPU @ 2.90GHz 8 core, 16 threads, RAM 16 GB AMD 6600,  Click for spec</summary>
+    
     | Type | Value|
     | --- | --- |
     |Processor|Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz|

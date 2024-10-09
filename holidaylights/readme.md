@@ -35,22 +35,29 @@ My System 3rd version:
 ## Wiring:
 
 ### This diagram of the wiring:
-![Light Show Wiring](./pictures/ligth-show-wiring.png)
+Light Show Wiring
 
-Real Pictures:
+[<img src="./pictures/ligth-show-wiring.png" width="250"/>](./pictures/ligth-show-wiring.png)
 
-### Outlet Box:
-![Outlet Box](./pictures/outlet-box.jpg)
+## Pictures:
+
+| name | Picture|
+|------|----|
+|Outlet | [<img src="./pictures/outlet-box.jpg" width="250"/>](./pictures/./pictures/outlet-box.jpg)| 
+|8 Channel Relay| [<img src="./pictures/relay-connect.jpg" width="250"/>](./pictures/./pictures/relay-connect.jpg)|
+
+
+
 Outlet box was easyer part has not much changes over time. I number then so in software I can have on outlet on all times. Allows for lazer lights on. They do not work with power being on / off fast. 
 
-8 Channel Relay:![8 Channel Relay](./pictures/relay-connect.jpg)
 One hardest part. I found out that wires were pulling out trying to get all the wires together in small area
 
 
 ## Software: 
 
 - Lightshow PI at https://bitbucket.org/togiles/lightshowpi/src/master/
-  Interface: ![interface](./pictures/lightshowpi-interface.png)
+  Interface: 
+    [<img src="./pictures/lightshowpi-interface.png" width="250"/>](./pictures/./pictures/lightshowpi-interface.png)
 - Raspberry OS 32:
 
 
