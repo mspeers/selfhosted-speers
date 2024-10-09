@@ -34,18 +34,18 @@ This is documentation of my project of self hosted :) This was from meet up with
 
 - Main server (old slow):
   <details>
-    <summary>Intel i5 CPU 650 core 2, 4 threads @ 3.20, RAM 4 GB Click for spec</summary>
+    <summary>Intel i5 CPU 650 core 2, 4 threads @ 3.20, RAM 4 GB, Click for spec</summary>
 
-      | Type | Value|
-      | --- | --- |
-      |Processor|Intel(R) Core(TM) i5 CPU 650  @ 3.20GHz|
-      |Processor Cores| 2 cores, 4 threads| 
-      |Memory|4 GB| 
-      |Operating System|Ubuntu 24.04.1 LTS Mate|
-      |OpenGL Renderer| |
-      |Storage| Samsung SSD 840 - 20 GB|
-      || SAMSUNG HD153WI SATA - 1 TB
-      || Hitachi HDE72101 HDD SATA 1.5 TB| 
+    |Type|Value|
+    |---|---|
+    |Processor|Intel(R) Core(TM) i5 CPU 650  @ 3.20GHz|
+    |Processor Cores|2 cores, 4 threads| 
+    |Memory|4 GB| 
+    |Operating System|Ubuntu 24.04.1 LTS Mate|
+    |OpenGL Renderer|TBA |
+    |Storage|Samsung SSD 840 - 20 GB|
+    |~|SAMSUNG HD153WI SATA - 1 TB
+    |~|Hitachi HDE72101 HDD SATA 1.5 TB| 
   </details>
 
 
@@ -53,8 +53,8 @@ This is documentation of my project of self hosted :) This was from meet up with
   <details>
     <summary>Intel i7-10700F CPU @ 2.90GHz 8 core, 16 threads, RAM 16 GB AMD 6600,  Click for spec</summary>
     
-    | Type | Value|
-    | --- | --- |
+    |Type|Value|
+    |---|---|
     |Processor|Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz|
     |Processor Cores| 8 cores, 16 threads| 
     |Memory|16 GB| 
