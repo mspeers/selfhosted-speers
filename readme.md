@@ -35,6 +35,7 @@ This is documentation of my project of self hosted :) This was from meet up with
 - Main server (old slow):
   <details>
     <summary>Intel i5 CPU 650 core 2, 4 threads @ 3.20, RAM 4 GB Click for spec</summary>
+
       | Type | Value|
       | --- | --- |
       |Processor|Intel(R) Core(TM) i5 CPU 650  @ 3.20GHz|
