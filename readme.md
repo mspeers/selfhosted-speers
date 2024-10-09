@@ -63,7 +63,10 @@ This is documentation of my project of self hosted :) This was from meet up with
 
 - Raspberry PI 4B
 - Device:
-  - PineTime [PineTime](https://wiki.pine64.org/wiki/PineTime)
-  -  [![Anbernic RG35XX H](./handheld/rg35xxj-icon.jpeg)](./handheld/anbernicrg35xxh.md) Anbernic RG35XX H
-  - Nintendo Switch OLED:
+  | Name | Picture |
+  |------|------|
+  | [PineTime](https://wiki.pine64.org/wiki/PineTime)| |
+  | [Anbernic RG35XX HP](./handheld/anbernicrg35xxh.md)  |[![Anbernic RG35XX H](./handheld/rg35xxj-icon.jpeg)](./handheld/anbernicrg35xxh.md) |
+  | Nintendo Switch OLED| |
+
   
