@@ -10,7 +10,7 @@ I created with all opensource.
 
 2024 (3rd year) Christmas Light Show:
 
-[![2024 Christmas](https://img.youtube.com/vi/K2xm-e2amwU/0.jpg)](https://youtu.be/K2xm-e2amwU "2024 Christmas")
+[![2024 Christmas](https://img.youtube.com/vi/UYHrhsJcZpA/0.jpg)](https://youtu.be/UYHrhsJcZpA "2024 Christmas")
 
 2022 Christmas Light Show:
 
