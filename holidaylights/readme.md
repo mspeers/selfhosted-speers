@@ -4,7 +4,14 @@ I wanted to create automated Christmas light system that include little hard and
 
 This project is to document what I did and to step to recreate what I have done. 
 
+I created with all opensource. 
+
 ## Videos:
+
+2024 (3rd year) Christmas Light Show:
+
+[![2024 Christmas](https://img.youtube.com/vi/K2xm-e2amwU/0.jpg)](https://youtu.be/K2xm-e2amwU "2024 Christmas")
+
 2022 Christmas Light Show:
 
 [![2022 Christmas Light Show](https://img.youtube.com/vi/laKFfjLhqhQ/0.jpg)](https://youtu.be/laKFfjLhqhQ "2022 Christmas Light Show")
@@ -43,8 +50,8 @@ Light Show Wiring
 
 | name | Picture|
 |------|----|
-|Outlet | [<img src="./pictures/outlet-box.jpg" width="250"/>](./pictures/./pictures/outlet-box.jpg)| 
-|8 Channel Relay| [<img src="./pictures/relay-connect.jpg" width="250"/>](./pictures/./pictures/relay-connect.jpg)|
+|Outlet | [<img src="./pictures/outlet-box.jpg" width="250"/>](./pictures/outlet-box.jpg)| 
+|8 Channel Relay| [<img src="./pictures/relay-connect.jpg" width="250"/>](./pictures/relay-connect.jpg)|
 
 
 
@@ -55,10 +62,11 @@ One hardest part. I found out that wires were pulling out trying to get all the 
 
 ## Software: 
 
-- Lightshow PI at https://bitbucket.org/togiles/lightshowpi/src/master/
-  Interface: 
-    [<img src="./pictures/lightshowpi-interface.png" width="250"/>](./pictures/./pictures/lightshowpi-interface.png)
-- Raspberry OS 32:
+|Name|Picture|
+|---|---|
+|[Lightshow PI](https://bitbucket.org/togiles/lightshowpi/src/master/)|
+[<img src="./pictures/lightshowpi-interface.png" width="250"/>](./pictures/lightshowpi-interface.png)|
+| Raspberry OS 32:|  |
 
 
 ### Setup:
